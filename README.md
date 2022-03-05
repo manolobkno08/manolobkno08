@@ -3,8 +3,8 @@
 ```js
 const Manuel Gomez = {
   pronouns: "He" | "Him",
-  code: [Python, Bash, Node.js, SQL],
-  tools: [Express.js, Flask, MySQL, MongoDB]
+  code: [Python, Bash, NodeJS, SQL],
+  tools: [ExpressJS, Flask, MySQL, MongoDB]
 }
 ```
 ## You can find me: 
