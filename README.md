@@ -1,4 +1,4 @@
-### Hi, I'm Manuel 👋💻✔
+### Hi, I'm Manuel 💻✔
 
 ```js
 const Manuel Gomez = {
