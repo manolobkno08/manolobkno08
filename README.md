@@ -1,7 +1,7 @@
 ### Hi, I'm Manuel 💻✔
 
 ```js
-const Manuel Gomez = {
+const ManuelGomez = {
   pronouns: "He" | "Him",
   code: [Python, Bash, NodeJS, SQL],
   tools: [ExpressJS, Flask, MySQL, MongoDB]
