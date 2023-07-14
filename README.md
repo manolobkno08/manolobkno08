@@ -7,10 +7,8 @@ const ManuelGomez = {
   tools: [AWS, AZURE]
 }
 ```
-## You can find me: 
-- [Twitter](https://twitter.com/ManoloGomez08)
+## You can find me:
 - [Linkedin](https://www.linkedin.com/in/manuel-alejandro-gomez-883951120/)
-- manologm10@hotmail.com
 
 ## My Stats
 
