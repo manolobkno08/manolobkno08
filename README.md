@@ -2,7 +2,6 @@
 
 ```js
 const ManuelGomez = {
-  pronouns: "He" | "Him",
   code: [Python, Bash, SQL],
   tools: [AWS, AZURE]
 }
